@@ -29,12 +29,9 @@ This project focuses on replicating the design, structure, and responsiveness of
 
 📸 Screenshots
 
-![header](https://github.com/user-attachments/assets/df4c88a4-568d-4ca2-b053-c47b6a2ac2c9)
-![hero-section](https://github.com/user-attachments/assets/78824e42-a49c-4613-b9c7-43f32a943eec)
-![footer](https://github.com/user-attachments/assets/4a59c96e-9ae4-4171-b65d-c2ee560a3c22)
-
-
-
+![header](https://github.com/user-attachments/assets/3e3f8f8b-44bc-4ce9-b4e1-1d7c355a740f)
+![hero-section](https://github.com/user-attachments/assets/76c69383-7aa9-4ef9-80a0-5bba8f7ec66c)
+![footer](https://github.com/user-attachments/assets/d3682532-9aab-4341-96ed-0730ddc4041c)
 
 📁 Folder Structure
 
